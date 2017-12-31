@@ -1,0 +1,4 @@
+C:\Users\DungPC\Desktop\New folder (4)\Hachico\Hachico\obj\Debug\netcoreapp1.1\Hachico.csprojResolveAssemblyReference.cache
+C:\Users\DungPC\Desktop\New folder (4)\Hachico\Hachico\obj\Debug\netcoreapp1.1\Hachico.csproj.CoreCompileInputs.cache
+C:\Users\DungPC\Desktop\New folder (4)\Hachico\Hachico\obj\Debug\netcoreapp1.1\Hachico.AssemblyInfoInputs.cache
+C:\Users\DungPC\Desktop\New folder (4)\Hachico\Hachico\obj\Debug\netcoreapp1.1\Hachico.AssemblyInfo.cs
